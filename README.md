@@ -38,6 +38,8 @@ This project investigates the potential of solar panel installations to mitigate
 
 📄 Google Engine Scripts: Kubuqi: https://code.earthengine.google.com/48abad85f5a134ccb60b42ef71db1d6f / Tapuio: https://code.earthengine.google.com/bdac2251ab199878c6907f283af8a77e
 
+Full Report: https://drive.google.com/drive/folders/1BDaieS0_3p2Shr-FBeedB0AdQw1MRXEb?usp=sharing
+
 ⸻
 
 🌊 Flood Mapping using SAR and Machine Learning
