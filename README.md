@@ -65,7 +65,7 @@ This project applies the Analytic Hierarchy Process (AHP) to identify landslide-
 	•	Risk classification (low, moderate, high)
 	•	Application to Juiz de Fora (Brazil)
 
-📄 Google Engine Scripts: https://code.earthengine.google.com/79330395b36f8c92987f2a1cbc436e48
+📄 Google Engine Scripts:https://code.earthengine.google.com/4920e73464294ec24020faede3e81bb8
 
 ⸻
 
