@@ -36,7 +36,7 @@ This project investigates the potential of solar panel installations to mitigate
 	•	Application to the Caatinga biome (Brazil)
 	•	Identification of suitable areas for ecological restoration
 
-📄 Report: Kubuqi: https://code.earthengine.google.com/48abad85f5a134ccb60b42ef71db1d6f / Tapuio: https://code.earthengine.google.com/bdac2251ab199878c6907f283af8a77e
+📄 Google Engine Scripts: Kubuqi: https://code.earthengine.google.com/48abad85f5a134ccb60b42ef71db1d6f / Tapuio: https://code.earthengine.google.com/bdac2251ab199878c6907f283af8a77e
 
 ⸻
 
@@ -48,7 +48,7 @@ This project uses Sentinel-1 SAR data combined with Random Forest classification
 	•	Accuracy assessment (≈0.85)
 	•	Climate and precipitation analysis integration
 
-📄 Report: https://code.earthengine.google.com/d39166d8e6d0c2ca35ba4b614a16acaf
+📄 Google Engine Scripts: https://code.earthengine.google.com/d39166d8e6d0c2ca35ba4b614a16acaf
 
 ⸻
 
@@ -63,7 +63,7 @@ This project applies the Analytic Hierarchy Process (AHP) to identify landslide-
 	•	Risk classification (low, moderate, high)
 	•	Application to Juiz de Fora (Brazil)
 
-📄 Report: https://code.earthengine.google.com/a6088db978cee2430e0f90ea320987c4
+📄 Google Engine Scripts: https://code.earthengine.google.com/a6088db978cee2430e0f90ea320987c4
 
 ⸻
 
