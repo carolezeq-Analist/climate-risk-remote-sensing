@@ -54,7 +54,7 @@ This project uses Sentinel-1 SAR data combined with Random Forest classification
 
 ⸻
 
-⛰️ Landslide Risk Mapping using AHP
+⛰️ Landslide Risk Mapping using AHP - (Processing - 50%)
 
 This project applies the Analytic Hierarchy Process (AHP) to identify landslide-prone areas.
 	•	Multicriteria analysis:
@@ -70,10 +70,10 @@ This project applies the Analytic Hierarchy Process (AHP) to identify landslide-
 ⸻
 
 📊 Additional Work
-	•	Burned area analysis using NBR
-	•	NDVI delta for agricultural monitoring
-	•	WebGIS (Folium-based visualization)
-	•	Climate data analysis (ERA5 / INMET)
+	•	Burned area analysis using NBR - (Processing)
+	•	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
+	•	WebGIS (Folium-based visualization) - https://github.com/carolezeq-Analist/climate_gdd
+	
 
 ⸻
 
