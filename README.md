@@ -70,10 +70,10 @@ This project applies the Analytic Hierarchy Process (AHP) to identify landslide-
 ⸻
 
 📊 Additional Work
-	•	Burned area analysis using NBR - (Processing)
-	•	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
-	•	WebGIS (Folium-based visualization) - https://github.com/carolezeq-Analist/climate_gdd
-	
+	-	Burned area analysis using NBR - (Processing)
+	-	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
+	-	WebGIS (Folium-based visualization) - https://github.com/carolezeq-Analist/climate_gdd
+    - Map drainage network of Poços de caldas/MG (Brazil) using OSMnx. (Report: drainage.ipynb)
 
 ⸻
 
