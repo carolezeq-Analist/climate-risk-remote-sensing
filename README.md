@@ -52,6 +52,7 @@ This project uses Sentinel-1 SAR data combined with Random Forest classification
 
 📄 Google Engine Scripts: https://code.earthengine.google.com/d39166d8e6d0c2ca35ba4b614a16acaf
 
+Report: SAR-Based Flood Mapping Using Machine Learning
 ⸻
 
 ⛰️ Landslide Risk Mapping using AHP 
@@ -73,13 +74,13 @@ Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Ju
 
 📊 Additional Work
 	
-	-	Burned area analysis using NBR - (Processing)
+-	Burned area analysis using NBR - (Processing)
 	
-	-	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
+-	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
 	
-	-	WebGIS (Folium-based visualization) - https://github.com/carolezeq-Analist/climate_gdd
+-	WebGIS (Folium-based visualization) - https://github.com/carolezeq-Analist/climate_gdd
     
-	- Map drainage network of Poços de caldas/MG (Brazil) using OSMnx. (Report: drainage.ipynb)
+- Map drainage network of Poços de caldas/MG (Brazil) using OSMnx. (Report: drainage.ipynb)
 
 ⸻
 
