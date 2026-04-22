@@ -54,7 +54,7 @@ This project uses Sentinel-1 SAR data combined with Random Forest classification
 
 ⸻
 
-⛰️ Landslide Risk Mapping using AHP - (Processing - 70%)
+⛰️ Landslide Risk Mapping using AHP 
 
 This project applies the Analytic Hierarchy Process (AHP) to identify landslide-prone areas.
 	•	Multicriteria analysis:
@@ -66,6 +66,8 @@ This project applies the Analytic Hierarchy Process (AHP) to identify landslide-
 	•	Application to Juiz de Fora (Brazil)
 
 📄 Google Engine Scripts: https://code.earthengine.google.com/46bf6c58d36f093c23b88bd8d1d30b3d
+
+Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Juiz de Fora (MG, Brazil)
 
 ⸻
 
