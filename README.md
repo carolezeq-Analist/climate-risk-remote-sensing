@@ -6,7 +6,7 @@ This repository presents a portfolio of applied projects focused on environmenta
 
 The work is centered on real-world case studies in Brazil, with an emphasis on agriculture, natural hazards, and ecosystem resilience.
 
-⸻
+------------
 
 🎯 Objectives
 	•	Analyze environmental risks using satellite data
@@ -14,7 +14,7 @@ The work is centered on real-world case studies in Brazil, with an emphasis on a
 	•	Support climate adaptation and land management strategies
 	•	Develop reproducible workflows using Google Earth Engine and Python
 
-⸻
+------------
 
 🛰️ Tools & Technologies
 	•	Google Earth Engine (GEE)
@@ -22,11 +22,10 @@ The work is centered on real-world case studies in Brazil, with an emphasis on a
 	•	QGIS
 	•	Remote Sensing (Sentinel-1 SAR, Sentinel-2)
 
-⸻
+------------
 
-📂 Projects
+📂 Projects:
 
-⸻
 
 🌱 Desertification Mitigation using Solar Panels
 
@@ -40,7 +39,7 @@ This project investigates the potential of solar panel installations to mitigate
 
 Full Report: https://drive.google.com/drive/folders/1BDaieS0_3p2Shr-FBeedB0AdQw1MRXEb?usp=sharing
 
-⸻
+------------
 
 🌊 Flood Mapping using SAR and Machine Learning
 
@@ -53,7 +52,8 @@ This project uses Sentinel-1 SAR data combined with Random Forest classification
 📄 Google Engine Scripts: https://code.earthengine.google.com/d39166d8e6d0c2ca35ba4b614a16acaf
 
 Report: SAR-Based Flood Mapping Using Machine Learning
-⸻
+
+------------
 
 ⛰️ Landslide Risk Mapping using AHP 
 
@@ -70,8 +70,33 @@ This project applies the Analytic Hierarchy Process (AHP) to identify landslide-
 
 Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Juiz de Fora (MG, Brazil)
 
-⸻
+------------
 
+ Geospatial Overlap Analysis: Protected Areas & Land Use
+
+A Python-based spatial analysis tool designed to identify and quantify overlaps between custom geometries (such as Rural Land Registry/CAR) and Brazil's National System of Protected Areas (CNUC).
+
+Overview
+This project provides an automated pipeline to calculate environmental compliance metrics. It allows users to draw or upload areas of interest and instantly determine the spatial intersection with protected units.
+
+ Key Features
+* Precision Mapping: Automatic reprojection to metric systems (EPSG:5880) to ensure accurate area calculations in hectares.
+* Interactive Dashboard: Dual-map interface using Folium for real-time geometry drawing and results visualization.
+* Topology Validation: Implements geometry cleaning (buffer 0) and simplification to handle complex official datasets.
+* Reporting: Automated tooltips showing Protected Area names, intersected area (ha), and percentage of total land overlap.
+
+ Tech Stack
+* Language: Python
+* Spatial Stack: GeoPandas, Shapely, Pyogrio
+* Visualization: Folium (Leaflet.js)
+
+How it Works
+1. Input: User draws a polygon or uploads a GeoJSON/Shapefile.
+2. Process: The script performs a spatial overlay between the input and the official Protected Areas database.
+3. Output: An interactive HTML report visualizing the intersection and providing key statistics for environmental due diligence.
+
+index: https://carolezeq-analist.github.io/climate-risk-remote-sensing/
+------------
 📊 Additional Work
 	
 -	Burned area analysis using NBR - (Processing)
@@ -82,7 +107,7 @@ Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Ju
     
 - Map drainage network of Poços de caldas/MG (Brazil) using OSMnx. (Report: drainage.ipynb)
 
-⸻
+-------------
 
 🚀 About Me
 
@@ -91,7 +116,7 @@ Environmental Management student focused on Remote Sensing, Climate Risk, and Ge
 	•	Focus on agriculture and climate applications
 	•	Interested in SAR data and machine learning
 
-⸻
+------------
 
 📬 Contact
 	•	Email: carolezeq15@gmail.com
