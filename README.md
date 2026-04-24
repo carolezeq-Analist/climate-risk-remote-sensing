@@ -95,7 +95,8 @@ How it Works
 2. Process: The script performs a spatial overlay between the input and the official Protected Areas database.
 3. Output: An interactive HTML report visualizing the intersection and providing key statistics for environmental due diligence.
 
-index: https://carolezeq-analist.github.io/climate-risk-remote-sensing/
+ index: https://carolezeq-analist.github.io/climate-risk-remote-sensing/
+
 ------------
 📊 Additional Work
 	
