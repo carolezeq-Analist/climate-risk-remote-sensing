@@ -100,7 +100,7 @@ How it Works
 ------------
 📊 Additional Work
 	
--	Burned area analysis using NBR - (Processing)
+-	Burned area analysis using NBR - (Coming soon - June 2026)
 	
 -	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
 	
