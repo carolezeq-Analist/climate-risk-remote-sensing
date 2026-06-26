@@ -72,36 +72,13 @@ Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Ju
 
 ------------
 
- Geospatial Overlap Analysis: Protected Areas & Land Use
 
-A Python-based spatial analysis tool designed to identify and quantify overlaps between custom geometries (such as Rural Land Registry/CAR) and Brazil's National System of Protected Areas (CNUC).
-
-Overview
-This project provides an automated pipeline to calculate environmental compliance metrics. It allows users to draw or upload areas of interest and instantly determine the spatial intersection with protected units.
-
- Key Features
-* Precision Mapping: Automatic reprojection to metric systems (EPSG:5880) to ensure accurate area calculations in hectares.
-* Interactive Dashboard: Dual-map interface using Folium for real-time geometry drawing and results visualization.
-* Topology Validation: Implements geometry cleaning (buffer 0) and simplification to handle complex official datasets.
-* Reporting: Automated tooltips showing Protected Area names, intersected area (ha), and percentage of total land overlap.
-
- Tech Stack
-* Language: Python
-* Spatial Stack: GeoPandas, Shapely, Pyogrio
-* Visualization: Folium (Leaflet.js)
-
-How it Works
-1. Input: User draws a polygon or uploads a GeoJSON/Shapefile.
-2. Process: The script performs a spatial overlay between the input and the official Protected Areas database.
-3. Output: An interactive HTML report visualizing the intersection and providing key statistics for environmental due diligence.
-
- index: https://carolezeq-analist.github.io/climate-risk-remote-sensing/
+ 
 
 ------------
 📊 Additional Work
 	
--	Burned area analysis using NBR - (Coming soon - June 2026)
-	
+	 
 -	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
 	
 -	WebGIS (Folium-based visualization) - https://github.com/carolezeq-Analist/climate_gdd
