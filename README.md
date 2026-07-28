@@ -8,7 +8,7 @@ The work is centered on real-world case studies in Brazil, with an emphasis on a
 
 ------------
 
-🎯 Objectives
+ Objectives
 	•	Analyze environmental risks using satellite data
 	•	Apply machine learning and spatial modeling techniques
 	•	Support climate adaptation and land management strategies
@@ -16,7 +16,7 @@ The work is centered on real-world case studies in Brazil, with an emphasis on a
 
 ------------
 
-🛰️ Tools & Technologies
+ Tools & Technologies
 	•	Google Earth Engine (GEE)
 	•	Python (geospatial analysis & machine learning)
 	•	QGIS
@@ -24,7 +24,7 @@ The work is centered on real-world case studies in Brazil, with an emphasis on a
 
 ------------
 
-📂 Projects:
+ Projects:
 
 
 🌱 Desertification Mitigation using Solar Panels
@@ -35,7 +35,7 @@ This project investigates the potential of solar panel installations to mitigate
 	•	Application to the Caatinga biome (Brazil)
 	•	Identification of suitable areas for ecological restoration
 
-📄 Google Engine Scripts: Kubuqi: https://code.earthengine.google.com/48abad85f5a134ccb60b42ef71db1d6f / Tapuio: https://code.earthengine.google.com/bdac2251ab199878c6907f283af8a77e
+ Google Engine Scripts: Kubuqi: https://code.earthengine.google.com/48abad85f5a134ccb60b42ef71db1d6f / Tapuio: https://code.earthengine.google.com/bdac2251ab199878c6907f283af8a77e
 
 Full Report: https://drive.google.com/drive/folders/1BDaieS0_3p2Shr-FBeedB0AdQw1MRXEb?usp=sharing
 
@@ -49,7 +49,7 @@ This project uses Sentinel-1 SAR data combined with Random Forest classification
 	•	Accuracy assessment (≈0.85)
 	•	Climate and precipitation analysis integration
 
-📄 Google Engine Scripts: https://code.earthengine.google.com/d39166d8e6d0c2ca35ba4b614a16acaf
+ Google Engine Scripts: https://code.earthengine.google.com/d39166d8e6d0c2ca35ba4b614a16acaf
 
 Report: SAR-Based Flood Mapping Using Machine Learning
 
@@ -66,7 +66,7 @@ This project applies the Analytic Hierarchy Process (AHP) to identify landslide-
 	•	Risk classification (low, moderate, high)
 	•	Application to Juiz de Fora (Brazil)
 
-📄 Google Engine Scripts: https://code.earthengine.google.com/46bf6c58d36f093c23b88bd8d1d30b3d
+ Google Engine Scripts: https://code.earthengine.google.com/46bf6c58d36f093c23b88bd8d1d30b3d
 
 Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Juiz de Fora (MG, Brazil)
 
@@ -76,7 +76,7 @@ Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Ju
  
 
 ------------
-📊 Additional Work
+ Additional Work
 	
 	 
 -	NDVI delta for agricultural monitoring - https://github.com/carolezeq-Analist/ndvi_seasonal_variation_italy.py
@@ -87,7 +87,7 @@ Report: Spatial Assessment of Landslide Risk Using Multi-Criteria Analysis in Ju
 
 -------------
 
-🚀 About Me
+ About Me
 
 Environmental Management student focused on Remote Sensing, Climate Risk, and Geospatial Analysis.
 	•	Strong experience with GEE, QGIS, and Python
